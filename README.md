@@ -15,7 +15,7 @@ This is a web application developed using HTML, CSS, and JavaScript to display a
 - JavaScript
 
 ## Live Site
-[Demo Link]()
+[Demo Link](https://restaurant-menu-application.netlify.app/)
 
 
 ## Installation
